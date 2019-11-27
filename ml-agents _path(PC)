@@ -1,0 +1,1 @@
+mlagents-learn C:\Users\82107\ml-agents-master\ml-agents-master\config\trainer_config.yaml --run-id=first-run --train
